@@ -3,8 +3,6 @@
 ![](/alfred_poczatek.bmp)
 To raczej plrosty pokój w konwencji prowadzenia za rękę osoby szkolonej. Do napisania tego `repozytorium` zmotywowało mnie pytanie drugie, o dane uwierzytelniające w `Task 1`. Będąc szczerym, w moim przypadku był to totalny strzał typu: admin:admin i udało się. Pomyślałem, że prezentuje mi to `złą konfigurację oprogramowania`- nie może być tak, że administrator systemu, urządzeń ipt pozostawia fabryczne dane uwierzytelniające, które powinny być wykorzystane do pierwszego logowania. Sprawdziłem kilka `Write-ups` i podejście do tego pytania jest różne. W tym podejściu do tego zadania wykorzystam aplikację `Burp Suide` i `Hydra`.
 
-Artykuł o konfiguracji [domowego routera wi-fi](https://sekurak.pl/o-czym-pamietac-konfigurujac-bezpieczenstwo-domowego-routera-wifi/). Domyślne dane uwierzytelniające do panelu administratora mogą prowadzić do zmian w konfiguracji urządzenia, systemu lub aplikacji.
-
 ## Task 1 Initial Access
 
 ![](/alfred_wyja%C5%9Bnienie.bmp)
