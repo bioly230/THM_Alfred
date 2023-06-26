@@ -326,6 +326,6 @@ type root.txt
 dff0f748678f280250f25a45b8046b4a
 ```
 
-#### Jak wspominałem na początku do napisanie tego `repozytorium` zmotywoała mnie "luka" opisywana w `OWASP TSop 10`. Dla zainteresowanych TryHackMe posiada dwa pokoje poświęcone czym jest `OWASP Top 10`:
+#### Jak wspominałem na początku do napisanie tego `repozytorium` zmotywoała mnie "luka" opisywana w `OWASP Top 10`. Dla zainteresowanych TryHackMe posiada dwa pokoje poświęcone czym jest `OWASP Top 10`:
 ##### [OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021) Task 12, [OWASP Top 10](https://tryhackme.com/room/owasptop10) Task 19.
 ##### [Opis podatności wg. OWASP](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
